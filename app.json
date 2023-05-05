@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "lager",
-    "slug": "lager",
+    "name": "lager-v2",
+    "slug": "lager-v2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
